@@ -18,6 +18,6 @@ To add team logos, navigate to the Assets tab and upload your logos. The default
 - [tsc](https://github.com/thesupremecommander) - Developer
 - [Anthony "Airon" Oetzmann](http://aironaudio.weebly.com/) - Sound Design
 - [Alex "Dashner" Pylyshyn](https://twitter.com/dashnerrr) - Designer & Testing
-- [Alex "Lange" Van Camp](http://alexvan.camp/) - Improvements from ToTH2017
+- [Alex "Lange" Van Camp](http://alexvan.camp/) - Improvements from TotH2017
 
 If using this bundle in a live production, please give credit to the above people.
