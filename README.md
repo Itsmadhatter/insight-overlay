@@ -6,6 +6,7 @@ This is a [NodeCG](http://github.com/nodecg/nodecg) bundle. It cannot be run on 
 
 # Demo
 [Click here](https://www.youtube.com/watch?v=7yH11I-1qtI&feature=youtu.be).
+[Demo with Attack/Defend Changes] (https://www.youtube.com/watch?v=zFQtrLPMDJQ&feature=youtu.be).
 
 ## Installation
 1. Install NodeCG
