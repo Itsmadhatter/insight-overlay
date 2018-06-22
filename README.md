@@ -5,7 +5,9 @@ The scoreboard overlay used by [InSightCasts](https://twitter.com/InSightCasts) 
 This is a [NodeCG](http://github.com/nodecg/nodecg) bundle. It cannot be run on its own, it has to be run as part of an existing NodeCG installation. Please see NodeCG's documentation for installation and setup instructions before continuing with insight-overlay setup.
 
 Updates:
+
 2018-05-23 Added Attack/Defend info
+
 2018-06-22 Added a semi-basic roster breakdown
 
 # Demo
