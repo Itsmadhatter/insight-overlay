@@ -1,5 +1,5 @@
 # insight-overlay
-NodeCG Version: 0.9
+NodeCG Version: 1.0.0
 The scoreboard overlay used by [InSightCasts](https://twitter.com/InSightCasts) during the iBUYPOWER Overwatch Summer Invitational 2016 and also integrated into the Tip of the Hats NodeCG overlay for 2017. The overlay has been used by the [Overwatch BEAT Invitational](https://beat.gl/) and refined in 2018 to include Attack/Defend info. Displays team names, scores, logos, and attack/defend status.
 
 This is a [NodeCG](http://github.com/nodecg/nodecg) bundle. It cannot be run on its own, it has to be run as part of an existing NodeCG installation. Please see NodeCG's documentation for installation and setup instructions before continuing with insight-overlay setup.
